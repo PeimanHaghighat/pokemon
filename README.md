@@ -22,3 +22,7 @@ The basic part of the solution is a new Functional Component called `PokemonFetc
 We used _states_ for keeping the fetched Pokemon details in memory.
 
 The names, sprites, moves, powers and other information are displayed and a `Start Battle` button is presented to the user. A simple logic for determining the winner is also implemented which outputs a proper message based on the fetched information.
+
+## Testing
+
+Two simple tests were added to demonstrate the use of `react-testing` library.
